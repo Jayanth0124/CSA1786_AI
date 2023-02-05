@@ -1,3 +1,4 @@
+WPP FOR FORWARD CHAINING.
 rainy(chennai).
 rainy(coimbatore).
 rainy(ooty).
